@@ -12,4 +12,9 @@ This is my first trial text
 
 Well this is my link [Follow Winnie](www.winnie.com)
 
-![alt text][logo]
+![image](https://upload.wikimedia.org/wikipedia/en/1/10/Winniethepooh.png)
+:thumbsup:
+:bowtie:
+:scream:
+:imp:
+
